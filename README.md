@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Obifrankie
-- 👀 I’m interested in Software development and Cloud Computing
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/obifrankie/)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!---
-Obifrankie/Obifrankie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My Cloud Tools
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
