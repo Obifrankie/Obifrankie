@@ -1,10 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 mins
+Total Time: 0 secs
 
-Docker   7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀   66.59 %
-Other    3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
