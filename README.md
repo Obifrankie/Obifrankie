@@ -3,7 +3,7 @@
 ```text
 Total Time: 0 secs
 
-Other    0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
