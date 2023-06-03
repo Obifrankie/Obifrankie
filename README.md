@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 5 hrs 11 mins
 
 Python       5 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.16 %
